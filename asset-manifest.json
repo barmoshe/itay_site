@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/itay_site/static/css/main.8380985e.css",
+    "main.js": "/itay_site/static/js/main.d0fb809e.js",
+    "static/js/787.642338f0.chunk.js": "/itay_site/static/js/787.642338f0.chunk.js",
+    "static/media/BG.mp4": "/itay_site/static/media/BG.9a578e62834ee06876b8.mp4",
+    "static/media/helvetica-neu.ttf": "/itay_site/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "/itay_site/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/LaBelleAurore.woff2": "/itay_site/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-s.png": "/itay_site/static/media/logo-s.bfc9f81846bda5218dab.png",
+    "static/media/CoolveticaRg-Regular.woff": "/itay_site/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/CoolveticaRg-Regular.woff2": "/itay_site/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/itay_site/index.html",
+    "main.8380985e.css.map": "/itay_site/static/css/main.8380985e.css.map",
+    "main.d0fb809e.js.map": "/itay_site/static/js/main.d0fb809e.js.map",
+    "787.642338f0.chunk.js.map": "/itay_site/static/js/787.642338f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8380985e.css",
+    "static/js/main.d0fb809e.js"
+  ]
+}
