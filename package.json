@@ -1,7 +1,7 @@
 {
     "name": "itay_site",
     "version": "0.1.0",
-    "private": true,
+    "private": false,
     "homepage": "https://barmoshe.github.io/itay_site",
 
     "dependencies": {
