@@ -2,7 +2,7 @@
     "name": "itay_site",
     "version": "0.1.0",
     "private": false,
-    "homepage": "https://barmoshe.github.io/itay_site",
+    "homepage": "https://barmoshe.github.io/itay_site/",
 
     "dependencies": {
         "@emailjs/browser": "^3.11.0",
